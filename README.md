@@ -1,5 +1,5 @@
 # Talk on [PyData Conference ](https://pydata.org/berlin2017/)
 
-PyGeo
+<!-- PyGeo-->
 
 Talk on Working with GeoData in Python
